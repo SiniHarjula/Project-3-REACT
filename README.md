@@ -2,7 +2,23 @@
 This project is a front-end interface for the Snippet API, which was created in Project 2. The goal of this project is to provide an interactive and responsive UI for browsing, adding, filtering, and managing code snippets.
 
 Live deployment:
+
 https://project-3-react-08e7.onrender.com/
+
+
+## Screenshots
+### Main Page
+Shows the main view with snippets list and form
+
+<img width="1350" height="939" alt="Näyttökuva 2025-12-11 114108" src="https://github.com/user-attachments/assets/b5c1aa91-1463-4e03-8a73-162f7fcb085d" />
+
+
+### Favorites Page
+Shows the list of favorite snippets
+
+<img width="1086" height="442" alt="Näyttökuva 2025-12-11 114128" src="https://github.com/user-attachments/assets/53c01338-edc0-4e08-84bd-a3beb831cd3f" />
+
+
 
 ## Features of this Project
 
@@ -62,8 +78,8 @@ Backend repository:
    npm run dev
 
 ## Reflection
-Creating this project taught me a lot of things. During the process, I encountered a lot of errors and unexpected behaviour, which taught me how to debug React applications more effectively. I spent a lot of time checking the browser console, reading error messages, and trying to understand what exactly was going wrong. When I got completely stuck and couldn't move forward, I asked AI for help to point me in the right direction. I also watched tutorials on how to solve different things and create parts for my project. 
+Creating this project taught me a lot about React and full-stack development. During the process, I ran into several errors and unexpected behaviours, which helped me improve my debugging skills. I spent time checking the browser console, reading error messages, and trying to understand what exactly was going wrong. When I got completely stuck, I asked AI for help to point me in the right direction. I also watched tutorials on how to solve different things and create parts that I wanted to include for my project. 
 
-This project was quite challenging for me, and I think that it was because this project required managing data flow between multiple components, handling API calls, and keeping track of state updates in React. However, these challenges helped me to learn a lot. Now I understand better how React hooks like useState and useEffect work, how I can build reusable components, how routing works, and how I can integrate a frontend with a REST API.
+This project was challenging at times, because it required managing data flow between multiple components, handling API calls, and keeping track of state updates in React. However, these challenges helped me to learn a lot. Now I understand better how React hooks like useState and useEffect work, how I can build reusable components, how routing works, and how I can integrate a frontend with a REST API.
 
-Even though this was difficult at times, completing it gave me more confidence to work with React and build full-stack applications. 
+Overall, completing this project strengthened my understanding of React and improved my confidence in developing full-stack applications.
